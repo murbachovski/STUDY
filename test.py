@@ -21,4 +21,4 @@ result = cv2.inpaint(image, mask, 3, cv2.INPAINT_TELEA)
 cv2.imshow('Result', result)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-# test
+# test TEST
